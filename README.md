@@ -5,7 +5,7 @@ This repository provides prebuilt static libraries of **Lua 5.4.8** for Android 
 ---
 
 
-## 🛠️ Build Instructions
+## Build Instructions
 
 To build using the Android NDK, run the following command from the project root:
 
