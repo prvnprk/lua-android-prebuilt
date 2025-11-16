@@ -2,7 +2,7 @@
 
 Prebuilt static libraries of **Lua 5.4.8** for Android platforms, along with the associated build configuration using the Android NDK's `ndk-build` system.  
 
----
+
 
 
 ## Build Instructions
